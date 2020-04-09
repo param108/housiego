@@ -10,6 +10,7 @@ code to generate housie tickets (its not as easy as you thing)
 `./housiego name:number name:number`
 
 name is the name of the person
+
 number is the number of tickets he/she wants
 
 eg
